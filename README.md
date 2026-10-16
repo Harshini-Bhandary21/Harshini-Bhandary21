@@ -4,12 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:B9A2F0,50:E6DAFB,100:FFD84D&text=Harshini%20Bhandary&fontSize=52&fontColor=4B3A7A&fontAlignY=38&desc=Full-Stack%20%E2%80%A2%20AI%20%E2%80%A2%20IoT%20%E2%80%A2%20Accessibility&descSize=20&descAlignY=60&descColor=6B5B95&animation=fadeIn" width="100%" alt="Harshini Bhandary"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=9B7EDE&center=true&vCenter=true&repeat=true&width=720&lines=SIH+2025+Winner+%F0%9F%8F%86;2+Patents+Filed+for+Visually+Impaired+Students+%F0%9F%93%9C;Turning+real-world+problems+into+working+software+%E2%9C%A8;AI+%2B+IoT+%2B+Hardware+for+worker+safety+%F0%9F%A6%BA" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=9B7EDE&center=true&vCenter=true&repeat=true&width=720&lines=SIH+2025+Winner+%F0%9F%8F%86;Design+Patent+Filed+for+Visually+Impaired+Students+%F0%9F%93%9C;Turning+real-world+problems+into+working+software+%E2%9C%A8;AI+%2B+IoT+%2B+Hardware+for+worker+safety+%F0%9F%A6%BA" alt="Typing SVG"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/🏆_SIH_2025-Winner-FFD84D?style=for-the-badge&labelColor=9B7EDE"/>
-<img src="https://img.shields.io/badge/📜_Patents-2_Filed-FFD84D?style=for-the-badge&labelColor=9B7EDE"/>
+<img src="https://img.shields.io/badge/📜_Design_Patent-Filed-FFD84D?style=for-the-badge&labelColor=9B7EDE"/>
 <img src="https://img.shields.io/badge/🎓_CGPA-9.13-FFD84D?style=for-the-badge&labelColor=9B7EDE"/>
 <img src="https://img.shields.io/badge/🥈_HBTM_Hackathon-1st_Runner--up-FFD84D?style=for-the-badge&labelColor=9B7EDE"/>
 
@@ -27,7 +27,7 @@
 
 **B.Tech Computer Engineering student** at **MIT Academy of Engineering, Pune** with a **9.13 CGPA**. I build software for real problems, with a focus on **accessibility** and **worker safety**, combining full-stack development with **AI, IoT and hardware**.
 
-Winner of **Smart India Hackathon 2025**, **1st runner-up at the HBTM Hackathon (IIIT Pune)**, and **2 patents filed** for visually impaired students. Looking for a team building products with real impact.
+Winner of **Smart India Hackathon 2025**, **1st runner-up at the HBTM Hackathon (IIIT Pune)**, and a **design patent filed** for visually impaired students. Looking for a team building products with real impact.
 
 **🎯 What I focus on**
 
@@ -212,8 +212,8 @@ Built the first-year timetable for the department • Developed the campus websi
     <td align="left">1st Runner-up · sponsored by I Am Better Than Me startup, at IIIT Pune</td>
   </tr>
   <tr>
-    <td align="left">📜 <b>2 Patents Filed</b></td>
-    <td align="left">Factorization Skill Kit and Probability Model, both for visually impaired students</td>
+    <td align="left">📜 <b>Design Patent Filed</b></td>
+    <td align="left">Factorization Skill Kit for visually impaired students</td>
   </tr>
   <tr>
     <td align="left">🎓 <b>Female District Topper</b></td>
