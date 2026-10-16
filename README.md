@@ -33,8 +33,6 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-<img src="https://komarev.com/ghpvc/?username=Harshini-Bhandary21&label=Profile+Views&color=3B82F6&style=for-the-badge" alt="Profile views"/>
-
 **B.Tech Computer Engineering student** at **MIT Academy of Engineering, Pune** (CGPA: 9.13). **SIH 2025 Winner**, **1st Runner-up at the HBTM Hackathon (IIIT Pune)**, and filed a **design patent** for visually impaired students. I turn real-world problems into working software, with a focus on **accessibility** and **worker safety**, combining full-stack development with AI, IoT and hardware.
 
 **🎯 Core Expertise:**
