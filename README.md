@@ -112,6 +112,23 @@ stack = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:B9A2F0,100:FFD84D" width="100%"/>
 
+## ✨ Lavender Bloom · three.js
+
+<div align="center">
+
+<a href="https://harshini-bhandary21.github.io/lavender-bloom/">
+  <img src="lavender-bloom.gif" width="85%" alt="Lavender Bloom: 24,000 particles morphing between a sphere, a rose, a torus knot and a spiral galaxy"/>
+</a>
+
+24,000 particles in lavender, white and yellow bloom between a Fibonacci sphere, a rose curve, a trefoil knot and a spiral galaxy, morphed by a custom GLSL shader.
+
+<a href="https://harshini-bhandary21.github.io/lavender-bloom/"><img src="https://img.shields.io/badge/▶_Live_Demo-FFD84D?style=for-the-badge&labelColor=9B7EDE"/></a>
+<a href="https://github.com/Harshini-Bhandary21/lavender-bloom"><img src="https://img.shields.io/badge/Source-9B7EDE?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:B9A2F0,100:FFD84D" width="100%"/>
+
 ## 🚀 Projects
 
 <div align="center">
