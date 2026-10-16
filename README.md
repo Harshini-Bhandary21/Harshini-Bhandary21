@@ -10,7 +10,7 @@
       />
       <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+%7C+AI+%2B+IoT+%2B+Hardware;SIH+2025+Winner;Design+Patent+Filed+for+Visually+Impaired+Students;Building+Accessible+and+Safe+Tech"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&lines=Full-Stack+Developer+%7C+AI+%2B+IoT+%2B+Hardware;SIH+2025+Winner;Design+Patent+Filed+for+Accessibility;Building+Accessible+and+Safe+Tech"
     alt="Typing SVG"
   />
 </p>
